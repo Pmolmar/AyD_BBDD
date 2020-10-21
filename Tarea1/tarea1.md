@@ -1,5 +1,5 @@
-#Tarea 1, Seguimiento del patrimonoio historico de la laguna
-##Planteamiento y desarrollo:
+# Tarea 1, Seguimiento del patrimonoio historico de la laguna
+## Planteamiento y desarrollo:
 Seguimiento del patrimonio histórico de la laguna, más concretamente el trazado original de la ciudad (los guiones con número expresan la relación que tienen entre ellos)
 
 - Construcción (religiosa, vivienda)-1 SI
@@ -16,7 +16,7 @@ Seguimiento del patrimonio histórico de la laguna, más concretamente el trazad
 - Organizadores-4 NO
 - Información por usuarios externos-5 SI
 
-##Elementos de los que recoges información:
+## Elementos de los que recoges información:
 - Construcción
 - Paraje
 - Localización
