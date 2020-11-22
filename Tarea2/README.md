@@ -240,6 +240,7 @@ CREATE TABLE IF NOT EXISTS `mydb`.`Cliente` (
   `Fidelización` INT NULL,
   `NumTarjeta` INT NULL,
   `Bonificación` FLOAT NULL,
+  `email` VARCHAR(90),
   PRIMARY KEY (`DNI`))
 ENGINE = InnoDB;
 
